@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sayyam | Business Automation</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .project { background: #f5f5f5; padding: 20px; margin: 20px 0; border-radius: 10px; }
+        .cta { background: #0077b6; color: white; padding: 15px; border-radius: 5px; text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>Sayyam - Business Process Automation</h1>
+    <p>I eliminate manual work for Pakistani businesses using simple, cost-effective automation.</p>
+    
+    <div class="project">
+        <h2>📦 Order Processing Automation</h2>
+        <p><strong>Problem:</strong> Client spent 15+ hours/week manually processing orders</p>
+        <p><strong>Solution:</strong> Google Form → Google Sheets → Instant notifications</p>
+        <p><strong>Tools:</strong> Google Forms, Google Sheets, Python, Telegram API</p>
+        <p><strong>Result:</strong> 15 hours/week saved, zero data entry errors</p>
+        <img src="automation-flow.png" alt="Automation Flow" width="100%">
+    </div>
+    
+    <div class="project">
+        <h2>🛠️ Services</h2>
+        <ul>
+            <li><strong>Basic Automation ($499):</strong> Form → Sheet → Email system</li>
+            <li><strong>Advanced Integration ($1,499):</strong> Multi-tool workflows + API connections</li>
+            <li><strong>Custom Development:</strong> Tailored solutions for complex operations</li>
+        </ul>
+    </div>
+    
+    <div class="cta">
+        <h3>Ready to eliminate manual work?</h3>
+        <p>Contact: sayyam.automation@protonmail.com</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    </div>
+</body>
+</html>
